@@ -1,0 +1,4 @@
+colorama
+hashlib 
+colorama 
+pathlib
